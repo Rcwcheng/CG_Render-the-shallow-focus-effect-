@@ -1,2 +1,2 @@
-# CG_Render-the-shallow-focus-effect-
-a  C++ program to render shallow focus images by OpenGL
+# OpenGL-shallow-focus-effect-
+This is a C++ program to render shallow focus images by OpenGL
